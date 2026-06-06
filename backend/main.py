@@ -19,7 +19,7 @@ app.add_middleware(
 )
 
 print("Loading RAG pipeline...")
-pipeline = load_pipeline(r"C:\Users\Admin\Desktop\sclaer\index1")
+pipeline = load_pipeline("index1")
 print("Pipeline loaded")
 
 
