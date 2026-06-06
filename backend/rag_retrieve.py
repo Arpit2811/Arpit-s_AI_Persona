@@ -320,7 +320,7 @@ class Pipeline:
         self.embedder = embedder
 
 
-def load_pipeline(index_dir: str = "index") -> Pipeline:
+def load_pipeline(index_dir: str = "index1") -> Pipeline:
     return Pipeline(ResumeIndex(index_dir), Embedder())
 
 
@@ -477,4 +477,4 @@ def run_repl(index_dir: str = "index"):
 
 
 if __name__ == "__main__":
-    run_repl("index")
+    run_repl("index1")
