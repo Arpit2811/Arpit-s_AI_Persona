@@ -27,9 +27,14 @@ app.add_middleware(
     allow_headers=["*"],
 )
 
-print("Loading RAG pipeline...")
-pipeline = load_pipeline("index1")
-print("Pipeline loaded")
+pipeline= None 
+def get_pipeline():
+    global pipeline
+
+    if pipeline is None:
+        print("Loading RAG Pipeline")
+        pipeline= load_pipeline("index1")
+        print("Pipeline Loaded")
 
 
 class ChatRequest(BaseModel):
@@ -81,7 +86,7 @@ def chat(req: ChatRequest):
 
     answer = ask(
         question=req.message,
-        pipeline=pipeline,
+        pipeline=get_pipeline(),
         history=history,
         source_filter="auto",
         verbose=False,
@@ -110,7 +115,7 @@ def voice_rag(payload: dict):
 
     answer = ask(
         question=payload["question"],
-        pipeline=pipeline,
+        pipeline=get_pipeline(),
         history=history,
         source_filter="auto",
         verbose=False,
