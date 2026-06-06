@@ -6,7 +6,6 @@ load_dotenv()
 
 MAKE_AVAILABILITY_WEBHOOK = os.getenv("MAKE_AVAILABILITY_WEBHOOK")
 BOOK_INTERVIEW_WEBHOOK = os.getenv("MAKE_BOOKING_WEBHOOK")
-
 def calculate_available_slots(busy_slots):
     working_hours = [
         "09:00",
