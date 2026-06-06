@@ -2,15 +2,15 @@ import os
 from fastapi import FastAPI
 from fastapi.middleware.cors import CORSMiddleware
 from pydantic import BaseModel
-from backend.booking_workflow import (
+from booking_workflow import (
     handle_booking,
     is_booking_intent,
     start_booking,
 )
 
-from backend.rag_retrieve import ask, load_pipeline
+from rag_retrieve import ask, load_pipeline
 
-from backend.make_service import (
+from make_service import (
     get_available_slots,
     create_booking,
 )
