@@ -1,7 +1,7 @@
 import streamlit as st
 import requests, uuid
 
-BACKEND_URL = "http://localhost:8001/chat"
+BACKEND_URL = ""https://arpit-saipersona-production.up.railway.app/chat"
 
 st.set_page_config(
     page_title="Arpit AI Persona",
