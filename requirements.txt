@@ -1,0 +1,14 @@
+fastapi
+uvicorn
+requests
+python-dotenv
+pydantic
+langchain
+langchain-community
+chromadb
+sentence-transformers
+transformers
+torch
+numpy
+streamlit
+python-docx
