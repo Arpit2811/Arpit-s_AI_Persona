@@ -2,14 +2,15 @@ import os
 from fastapi import FastAPI
 from fastapi.middleware.cors import CORSMiddleware
 from pydantic import BaseModel
+print("STEP 1")
 from backend.booking_workflow import (
     handle_booking,
     is_booking_intent,
     start_booking,
 )
-
+print("STEP 3")
 from backend.rag_retrieve import ask, load_pipeline
-
+print("STEP 2")
 from backend.make_service import (
     get_available_slots,
     create_booking,
@@ -28,7 +29,7 @@ app.add_middleware(
 )
 
 print("Loading RAG pipeline...")
-pipeline = load_pipeline(r"C:\Users\Admin\Desktop\sclaer\index")
+pipeline = load_pipeline(r"index")
 print("Pipeline loaded")
 
 
