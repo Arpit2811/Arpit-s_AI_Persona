@@ -29,7 +29,7 @@ app.add_middleware(
 )
 
 print("Loading RAG pipeline...")
-pipeline = load_pipeline(r"index")
+pipeline = load_pipeline("index")
 print("Pipeline loaded")
 
 
