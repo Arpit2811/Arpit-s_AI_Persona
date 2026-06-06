@@ -2,15 +2,15 @@ import os
 from fastapi import FastAPI
 from fastapi.middleware.cors import CORSMiddleware
 from pydantic import BaseModel
-from booking_workflow import (
+from backend.booking_workflow import (
     handle_booking,
     is_booking_intent,
     start_booking,
 )
 
-from rag_retrieve import ask, load_pipeline
+from backend.rag_retrieve import ask, load_pipeline
 
-from make_service import (
+from backend.make_service import (
     get_available_slots,
     create_booking,
 )
@@ -27,14 +27,9 @@ app.add_middleware(
     allow_headers=["*"],
 )
 
-pipeline= None 
-def get_pipeline():
-    global pipeline
-
-    if pipeline is None:
-        print("Loading RAG Pipeline")
-        pipeline= load_pipeline("index1")
-        print("Pipeline Loaded")
+print("Loading RAG pipeline...")
+pipeline = load_pipeline(r"C:\Users\Admin\Desktop\sclaer\index")
+print("Pipeline loaded")
 
 
 class ChatRequest(BaseModel):
@@ -86,7 +81,7 @@ def chat(req: ChatRequest):
 
     answer = ask(
         question=req.message,
-        pipeline=get_pipeline(),
+        pipeline=pipeline,
         history=history,
         source_filter="auto",
         verbose=False,
@@ -115,7 +110,7 @@ def voice_rag(payload: dict):
 
     answer = ask(
         question=payload["question"],
-        pipeline=get_pipeline(),
+        pipeline=pipeline,
         history=history,
         source_filter="auto",
         verbose=False,

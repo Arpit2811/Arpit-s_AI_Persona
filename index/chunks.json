@@ -1,0 +1,1257 @@
+[
+  {
+    "id": "chunk_0000",
+    "source": "resume",
+    "section": "header",
+    "text": "Arpit Kumble\nAI/ML Engineer | Data Engineer | LLM Evaluation & Synthetic Data Pipelines\n+91 7304377956 | arpitkumble@gmail.com  |  Linkedin  | Github",
+    "metadata": {
+      "type": "contact"
+    }
+  },
+  {
+    "id": "chunk_0001",
+    "source": "resume",
+    "section": "summary",
+    "text": "I am an early-career AI/ML and Data Engineering professional with hands-on experience in LLM evaluation, synthetic data pipelines, large-scale data processing, and foundation model development. I contributed to BharatGen at IIT Bombay, supporting large-scale AI initiatives involving 10M+ PDFs, 50TB+ curated fine-tuning datasets, evaluation of 30+ LLMs, and development of a 20K+ cybersecurity benchmark. I have a strong interest in building reliable data and AI systems at the intersection of data engineering, machine learning, and Generative AI, with a focus on learning quickly, solving practical problems, and contributing within high-performing technical teams.",
+    "metadata": {
+      "type": "summary"
+    }
+  },
+  {
+    "id": "chunk_0002",
+    "source": "resume",
+    "section": "experience",
+    "text": "BharatGen, IIT Bombay | Jan\u2013May 2026\nAn IIT Bombay-led initiative advancing India\u2019s multilingual LLM capabilities for Indian languages and generative AI use cases.\nAI/ML Engineer\nI contributed to building and optimizing large-scale ETL and data processing pipelines in Python, applying multiprocessing, Asyncio, and Aiohttp for distributed web crawling alongside AWS (S3, Lambda) to process over 10M+ PDFs for a multilingual foundation model initiative. This effort deepened my understanding of production-scale data infrastructure while also helping reduce pipeline execution time by 92%.\nI ran systematic custom -based evaluations across 30+ LLMs using task-specific benchmarks, learning firsthand how model selection decisions are made at production scale; as part of this work, I independently designed and built a 20K+ cybersecurity benchmark dataset to assess and rank models across domain-specific tasks, my first end-to-end ownership of an evaluation framework.\nI worked on high-performance deduplication  and data quality filtering pipelines processing 500M+ dataset rows, and contributed to synthetic data generation frameworks that curated 50TB+ of fine-tuning datasets for foundation model development gaining practical exposure to the full data curation lifecycle that underpins large-scale AI training.\nPV Doctor Pte Ltd, Singapore | Oct\u2013Dec 2025 \nAI-powered Asset Performance Management company for solar PV systems, using real-time monitoring and predictive diagnostics to improve maintenance decisions and prevent energy yield losses.\nData Engineer | Asset Performance Analytics\nI supported the migration, validation, and data consistency checks across 800+ solar monitoring sites for multiple clients, ensuring reliable site integrations, monitoring accuracy, and operational continuity across energy platforms.\nI refactored Python automation scripts into scalable database-driven workflows using Azure SQL database, improving data retrieval efficiency, pipeline reliability, and observability through structured logging and exception handling.\nI designed analytics dashboards and automated reporting pipelines for monitoring energy yield, system performance, and operational insights, additionally I integrated data pipelines across clients including Huawei, Sungrow, and SolarEdge, enabling unified performance monitoring across multiple client portfolios.\nIndependent AI Research & Project Development | Apr\u2013Sep 2025 \nLLM Fine-Tuning & Data Deduplication Pipeline\nDeveloped an end-to-end supervised fine-tuning pipeline using PySpark, MinHashLSH, Jaccard Similarity, and large-scale data processing to deduplicate, clean, and preprocess 50M+ Parquet records for transformer model training on curated instruction datasets.",
+    "metadata": {
+      "type": "role",
+      "company": "BharatGen, IIT Bombay"
+    }
+  },
+  {
+    "id": "chunk_0003",
+    "source": "resume",
+    "section": "experience",
+    "text": "AWS, Mumbai | Jul\u2013Nov 2022\nCloud Data Engineer\nDeveloped cloud-native ETL and infrastructure workflows using AWS EC2, S3, Lambda, RDS, and EKS, supporting containerized deployments, monitoring systems, and scalable data engineering architectures.",
+    "metadata": {
+      "type": "role",
+      "company": "AWS, Mumbai"
+    }
+  },
+  {
+    "id": "chunk_0004",
+    "source": "resume",
+    "section": "projects",
+    "text": "Project CourseCrafterAI  | Jul 2024\u2013 Jan 2025\nDeveloped a multi-tool Generative AI application using GPT-4, prompt engineering, Python, APIs, structured output generation, and tool/function calling to support six agentic workflows for curriculum ideation and automated instructional content generation.",
+    "metadata": {
+      "type": "project"
+    }
+  },
+  {
+    "id": "chunk_0005",
+    "source": "resume",
+    "section": "projects",
+    "text": "Certificate Performance Analytics Platform  | Dec 2023\u2013 May 2024\nDeveloped a scalable certificate performance analytics platform using MySQL, ETL pipelines, real-time data processing, and analytics dashboards to automate certificate ingestion, leaderboard updates, and role-based performance reporting\nSKILLS TECHNOLOGY SKILLS\nLLM & GenAI :\tLangChain, LanGraph, OpenAI API, HuggingFace Transformers, LoRA, RAGAS, Prompt\n  \t\t\tengineering,  RAG, vLLM, LLMOps, Embedding Models\nData Engineering :\tPython, PySpark, ETL,ELT Design, Deduplication, Data Quality, Parquet, CSV, JSON, OCR\n\t\t\tpipelines, PDF Processing, Distributed Data Processing, Metadata Management\nCloud & Infra : \tAWS (S3, Lambda, EC2, RDS), Docker, distributed computing, CUDA, GPU Workloads,\n \t\t\tModel Deployment, HPC, CI/CD Pipelines\nDatabases & Storage : \tMySQL, AWS S3/RDS, vector databases (FAISS, Chroma), HuggingFace Datasets\nML/AI Libraries : \tPyTorch, TensorFlow, Scikit-learn, NLP (NLTK, SpaCy), Pandas, Numpy, Matplotlib,\n\t\t\tSeaborn, BeautifulSoup, Requests, Selenium, FastAPI, accelerate, pytesseract, pdfplumber,\n\t\t\tpdfminer, PyMuPDF\nTools : \t\t\tVS Code, Git, GitHub, BitBucket, PowerBI, Tableau, Postman, Excel, Jira",
+    "metadata": {
+      "type": "project"
+    }
+  },
+  {
+    "id": "chunk_0006",
+    "source": "resume",
+    "section": "certifications",
+    "text": "Building RAG Agents with LLMs - DeepLearningAI\nTransformers United (CS25) - Stanford University\nLangChain Academy - LangChain\nClaude Code 101 & Claude MCP - Claude",
+    "metadata": {
+      "type": "certifications"
+    }
+  },
+  {
+    "id": "chunk_0007",
+    "source": "resume",
+    "section": "education",
+    "text": "University of Mumbai, A. P. Shah Institute of Technology | May 2025\nBachelor of Engineering in Information Technology, CGPA: 8.83 / 10\nINTERESTS & AVOCATIONS\nBeach volleyball, community cricket, Soccer, Generative AI, applied mathematics, and esports gaming.",
+    "metadata": {
+      "type": "education"
+    }
+  },
+  {
+    "id": "chunk_0008",
+    "source": "github",
+    "section": "github_repo",
+    "text": "[Repo: Arxiv Scrapping] [overview]\n**ArXiv Complete PDF Downloader \u2014 Distributed, Fault-Tolerant, Resume-Safe\nThis project is a high-performance, distributed ArXiv PDF scraper designed for large-scale archival of all papers on ArXiv from 1991 to today.\nIt supports:",
+    "metadata": {
+      "type": "readme_section",
+      "repo": "Arxiv Scrapping",
+      "heading": "overview",
+      "sub_chunk": 0
+    }
+  },
+  {
+    "id": "chunk_0009",
+    "source": "github",
+    "section": "github_repo",
+    "text": "[Repo: Arxiv Scrapping] [overview]\n1. Distributed scraping across multiple machines",
+    "metadata": {
+      "type": "readme_section",
+      "repo": "Arxiv Scrapping",
+      "heading": "overview",
+      "sub_chunk": 1
+    }
+  },
+  {
+    "id": "chunk_0010",
+    "source": "github",
+    "section": "github_repo",
+    "text": "[Repo: Arxiv Scrapping] [overview]\n2. Resume capability \u2014 never loses progress",
+    "metadata": {
+      "type": "readme_section",
+      "repo": "Arxiv Scrapping",
+      "heading": "overview",
+      "sub_chunk": 2
+    }
+  },
+  {
+    "id": "chunk_0011",
+    "source": "github",
+    "section": "github_repo",
+    "text": "[Repo: Arxiv Scrapping] [overview]\n8. Duplicate detection using a BloomFilter",
+    "metadata": {
+      "type": "readme_section",
+      "repo": "Arxiv Scrapping",
+      "heading": "overview",
+      "sub_chunk": 3
+    }
+  },
+  {
+    "id": "chunk_0012",
+    "source": "github",
+    "section": "github_repo",
+    "text": "[Repo: Arxiv Scrapping] [overview]\n11. Asynchronous downloads (aiohttp + asyncio)",
+    "metadata": {
+      "type": "readme_section",
+      "repo": "Arxiv Scrapping",
+      "heading": "overview",
+      "sub_chunk": 4
+    }
+  },
+  {
+    "id": "chunk_0013",
+    "source": "github",
+    "section": "github_repo",
+    "text": "[Repo: Arxiv Scrapping] [overview]\nUsed properly, this system can download millions of PDFs safely.",
+    "metadata": {
+      "type": "readme_section",
+      "repo": "Arxiv Scrapping",
+      "heading": "overview",
+      "sub_chunk": 5
+    }
+  },
+  {
+    "id": "chunk_0014",
+    "source": "github",
+    "section": "github_repo",
+    "text": "[Repo: Arxiv Scrapping] [overview]\nSplit year ranges across machines so no machine downloads the same month twice.",
+    "metadata": {
+      "type": "readme_section",
+      "repo": "Arxiv Scrapping",
+      "heading": "overview",
+      "sub_chunk": 6
+    }
+  },
+  {
+    "id": "chunk_0015",
+    "source": "github",
+    "section": "github_repo",
+    "text": "[Repo: Arxiv Scrapping] [overview]\nIf the downloader stops, it restarts from where it left.",
+    "metadata": {
+      "type": "readme_section",
+      "repo": "Arxiv Scrapping",
+      "heading": "overview",
+      "sub_chunk": 7
+    }
+  },
+  {
+    "id": "chunk_0016",
+    "source": "github",
+    "section": "github_repo",
+    "text": "[Repo: Arxiv Scrapping] [overview]\nEach month (e.g. 20150701_20150731) is marked completed after downloading papers.",
+    "metadata": {
+      "type": "readme_section",
+      "repo": "Arxiv Scrapping",
+      "heading": "overview",
+      "sub_chunk": 8
+    }
+  },
+  {
+    "id": "chunk_0017",
+    "source": "github",
+    "section": "github_repo",
+    "text": "[Repo: Arxiv Scrapping] [overview]\nEvery downloaded paper is stored in metadata_all.json.",
+    "metadata": {
+      "type": "readme_section",
+      "repo": "Arxiv Scrapping",
+      "heading": "overview",
+      "sub_chunk": 9
+    }
+  },
+  {
+    "id": "chunk_0018",
+    "source": "github",
+    "section": "github_repo",
+    "text": "[Repo: Arxiv Scrapping] [overview]\nUsing BloomFilter + memory checks to avoid reprocessing paper IDs.",
+    "metadata": {
+      "type": "readme_section",
+      "repo": "Arxiv Scrapping",
+      "heading": "overview",
+      "sub_chunk": 10
+    }
+  },
+  {
+    "id": "chunk_0019",
+    "source": "github",
+    "section": "github_repo",
+    "text": "[Repo: Arxiv Scrapping] [overview]\nArXiv categories changed over the years \u2014 your script automatically picks correct ones.",
+    "metadata": {
+      "type": "readme_section",
+      "repo": "Arxiv Scrapping",
+      "heading": "overview",
+      "sub_chunk": 11
+    }
+  },
+  {
+    "id": "chunk_0020",
+    "source": "github",
+    "section": "github_repo",
+    "text": "[Repo: Arxiv Scrapping] [overview]\nPDFs are downloaded with retries and fallback HTTP download.",
+    "metadata": {
+      "type": "readme_section",
+      "repo": "Arxiv Scrapping",
+      "heading": "overview",
+      "sub_chunk": 12
+    }
+  },
+  {
+    "id": "chunk_0021",
+    "source": "github",
+    "section": "github_repo",
+    "text": "[Repo: Arxiv Scrapping] [overview]\naiohttp\nasyncio.Semaphore\nconcurrent tasks\nfor efficient parallel downloading**.",
+    "metadata": {
+      "type": "readme_section",
+      "repo": "Arxiv Scrapping",
+      "heading": "overview",
+      "sub_chunk": 13
+    }
+  },
+  {
+    "id": "chunk_0022",
+    "source": "github",
+    "section": "github_repo",
+    "text": "[Repo: Minhash Lsh Dedup] [Minhash-LSH-Jaccard-Based-deduplication-on-parquet-datasets-pipeline]\nHigh-performance near-duplicate detection for large Parquet datasets using MinHash signatures and Locality-Sensitive Hashing (LSH). Designed for 50M+ row datasets on multi-core HPC clusters.\n\n---",
+    "metadata": {
+      "type": "readme_section",
+      "repo": "Minhash Lsh Dedup",
+      "heading": "Minhash-LSH-Jaccard-Based-deduplication-on-parquet-datasets-pipeline"
+    }
+  },
+  {
+    "id": "chunk_0023",
+    "source": "github",
+    "section": "github_repo",
+    "text": "[Repo: Minhash Lsh Dedup] [How It Works]\nThe pipeline runs in 5 sequential phases:\n\n\n\n**Text input:** By default, `Question` and `Answer` columns are concatenated with `[SEP]` before hashing. Use `--question-only` to hash only the `Question` column.\n\n**Duplicate policy:** For each confirmed near-duplicate pair `(a, b)` where `a < b`, row `b` is dropped. The first occurrence of each near-duplicate group is always kept.\n\n---",
+    "metadata": {
+      "type": "readme_section",
+      "repo": "Minhash Lsh Dedup",
+      "heading": "How It Works"
+    }
+  },
+  {
+    "id": "chunk_0024",
+    "source": "github",
+    "section": "github_repo",
+    "text": "[Repo: Minhash Lsh Dedup] [Usage]\n### Basic\n\n\n\n### Directory (processes all `.parquet` files recursively)\n\n\n\n### Common options\n\n\n\n---",
+    "metadata": {
+      "type": "readme_section",
+      "repo": "Minhash Lsh Dedup",
+      "heading": "Usage"
+    }
+  },
+  {
+    "id": "chunk_0025",
+    "source": "github",
+    "section": "github_repo",
+    "text": "[Repo: Minhash Lsh Dedup] [Arguments]\n| Argument | Default | Description |\n|---|---|---|\n| `--input` | *(required)* | Input `.parquet` file or directory |\n| `--output` | *(required)* | Output file or directory |\n| `--workers` | `100` | Number of parallel worker processes |\n| `--threshold` | `0.7` | Jaccard similarity threshold (0\u20131). Lower = more aggressive dedup |\n| `--num-perm` | `128` | Number of MinHash permutations. Higher = more accurate, more RAM |\n| `--ngram` | `3` | Character n-gram size for shingling |\n| `--chunk` | `500000` | Rows per batch for reading/writing |\n| `--no-verify` | `False` | Skip Jaccard verification \u2014 faster but less precise |\n| `--question-only` | `False` | Hash only `Question` column instead of `Question + Answer` |\n| `--skip-existing` | `False` | Skip output files that already exist |\n| `--max-ram-per-worker` | `4.0` | GB RAM budget per Jaccard worker |\n| `--tasks-per-worker` | `4` | Target Jaccard tasks per worker for load balancing |\n| `--min-task-size` | `100000` | Minimum pairs per Jaccard task |\n| `--max-task-size` | `10000000` | Maximum pairs per Jaccard task |",
+    "metadata": {
+      "type": "readme_section",
+      "repo": "Minhash Lsh Dedup",
+      "heading": "Arguments",
+      "sub_chunk": 0
+    }
+  },
+  {
+    "id": "chunk_0026",
+    "source": "github",
+    "section": "github_repo",
+    "text": "[Repo: Minhash Lsh Dedup] [Threshold Guide]\n| `--threshold` | Meaning | Use when |\n|---|---|---|\n| `0.95+` | Near-exact duplicates only | Text with minor edits (whitespace, punctuation) |\n| `0.8\u20130.95` | High similarity | Paraphrased or lightly reworded content |\n| `0.7` *(default)* | Moderate similarity | Standard deduplication |\n| `0.5\u20130.7` | Loose similarity | Aggressive dedup, topic-level clustering |\n\n---",
+    "metadata": {
+      "type": "readme_section",
+      "repo": "Minhash Lsh Dedup",
+      "heading": "Threshold Guide"
+    }
+  },
+  {
+    "id": "chunk_0027",
+    "source": "github",
+    "section": "github_repo",
+    "text": "[Repo: Minhash Lsh Dedup] [Architecture Details]\nEach row is converted to a set of character n-gram shingles, then hashed into a `num_perm`-dimensional MinHash signature. Work is split across `--workers` processes using `multiprocessing.Pool`.",
+    "metadata": {
+      "type": "readme_section",
+      "repo": "Minhash Lsh Dedup",
+      "heading": "Architecture Details",
+      "sub_chunk": 0
+    }
+  },
+  {
+    "id": "chunk_0028",
+    "source": "github",
+    "section": "github_repo",
+    "text": "[Repo: Minhash Lsh Dedup] [Architecture Details]\nSignatures are written to a **memory-mapped NumPy file** (`signatures.npy`) rather than held in RAM. This allows datasets larger than available RAM to be processed.",
+    "metadata": {
+      "type": "readme_section",
+      "repo": "Minhash Lsh Dedup",
+      "heading": "Architecture Details",
+      "sub_chunk": 1
+    }
+  },
+  {
+    "id": "chunk_0029",
+    "source": "github",
+    "section": "github_repo",
+    "text": "[Repo: Minhash Lsh Dedup] [Architecture Details]\nAll signatures are streamed through a `MinHashLSH` index. For each row, the index is queried for near-neighbours before the row itself is inserted. This yields a set of **candidate pairs** \u2014 rows that are likely near-duplicates but not yet confirmed.",
+    "metadata": {
+      "type": "readme_section",
+      "repo": "Minhash Lsh Dedup",
+      "heading": "Architecture Details",
+      "sub_chunk": 2
+    }
+  },
+  {
+    "id": "chunk_0030",
+    "source": "github",
+    "section": "github_repo",
+    "text": "[Repo: Minhash Lsh Dedup] [Architecture Details]\nLSH is approximate by design \u2014 it trades a small number of false negatives for O(n) query time instead of O(n\u00b2).",
+    "metadata": {
+      "type": "readme_section",
+      "repo": "Minhash Lsh Dedup",
+      "heading": "Architecture Details",
+      "sub_chunk": 3
+    }
+  },
+  {
+    "id": "chunk_0031",
+    "source": "github",
+    "section": "github_repo",
+    "text": "[Repo: Minhash Lsh Dedup] [Architecture Details]\n### Phase 3 \u2014 Jaccard Verification (parallel)",
+    "metadata": {
+      "type": "readme_section",
+      "repo": "Minhash Lsh Dedup",
+      "heading": "Architecture Details",
+      "sub_chunk": 4
+    }
+  },
+  {
+    "id": "chunk_0032",
+    "source": "github",
+    "section": "github_repo",
+    "text": "[Repo: Minhash Lsh Dedup] [Architecture Details]\nCandidate pairs are verified by computing the exact Jaccard similarity from their MinHash signatures:",
+    "metadata": {
+      "type": "readme_section",
+      "repo": "Minhash Lsh Dedup",
+      "heading": "Architecture Details",
+      "sub_chunk": 5
+    }
+  },
+  {
+    "id": "chunk_0033",
+    "source": "github",
+    "section": "github_repo",
+    "text": "[Repo: Minhash Lsh Dedup] [Architecture Details]\nPairs below `--threshold` are rejected. This step reads signatures from the memory-mapped file directly in each worker \u2014 **no signature data is pickled or sent over IPC**.",
+    "metadata": {
+      "type": "readme_section",
+      "repo": "Minhash Lsh Dedup",
+      "heading": "Architecture Details",
+      "sub_chunk": 6
+    }
+  },
+  {
+    "id": "chunk_0034",
+    "source": "github",
+    "section": "github_repo",
+    "text": "[Repo: Minhash Lsh Dedup] [Architecture Details]\nTask size is computed dynamically based on `--max-ram-per-worker` and `--tasks-per-worker` to avoid OOM errors.",
+    "metadata": {
+      "type": "readme_section",
+      "repo": "Minhash Lsh Dedup",
+      "heading": "Architecture Details",
+      "sub_chunk": 7
+    }
+  },
+  {
+    "id": "chunk_0035",
+    "source": "github",
+    "section": "github_repo",
+    "text": "[Repo: Minhash Lsh Dedup] [Architecture Details]\nFor all confirmed pairs `(a, b)` with `a < b`, row `b` is added to a `duplicates` set. The keep set is `all_rows - duplicates`. This is O(n_pairs) with no graph traversal.",
+    "metadata": {
+      "type": "readme_section",
+      "repo": "Minhash Lsh Dedup",
+      "heading": "Architecture Details",
+      "sub_chunk": 8
+    }
+  },
+  {
+    "id": "chunk_0036",
+    "source": "github",
+    "section": "github_repo",
+    "text": "[Repo: Minhash Lsh Dedup] [Architecture Details]\nThe original file is re-read in chunks. Each chunk is filtered to keep only rows in the keep set, then written to the output Parquet file with Snappy compression.",
+    "metadata": {
+      "type": "readme_section",
+      "repo": "Minhash Lsh Dedup",
+      "heading": "Architecture Details",
+      "sub_chunk": 9
+    }
+  },
+  {
+    "id": "chunk_0037",
+    "source": "github",
+    "section": "github_repo",
+    "text": "[Repo: Minhash Lsh Dedup] [Memory Usage]\n| Component | Size |\n|---|---|\n| Signatures memmap | `total_rows \u00d7 num_perm \u00d7 8 bytes` |\n| Candidate pairs | `n_pairs \u00d7 8 bytes` (int32 \u00d7 2) |\n| Jaccard RAM/worker | `task_size \u00d7 num_perm \u00d7 16 bytes` |\n\n**Example:** 10M rows, `num_perm=128` \u2192 signatures memmap \u2248 **10 GB**. Use a fast local disk or tmpfs for the temp directory if possible.\n\n---",
+    "metadata": {
+      "type": "readme_section",
+      "repo": "Minhash Lsh Dedup",
+      "heading": "Memory Usage"
+    }
+  },
+  {
+    "id": "chunk_0038",
+    "source": "github",
+    "section": "github_repo",
+    "text": "[Repo: Minhash Lsh Dedup] [Output]\n- Output Parquet files are named `{stem}_deduped.parquet`\n- Schema is preserved exactly from the input\n- Compressed with Snappy\n- Row order is preserved (first occurrence of each group is kept)\n\n---",
+    "metadata": {
+      "type": "readme_section",
+      "repo": "Minhash Lsh Dedup",
+      "heading": "Output"
+    }
+  },
+  {
+    "id": "chunk_0039",
+    "source": "github",
+    "section": "github_repo",
+    "text": "[Repo: Minhash Lsh Dedup] [Tips]\n**Speed up Phase 1** \u2014 increase `--workers` and `--chunk`. MinHash is CPU-bound and scales linearly with cores.\n\n**Speed up Phase 2** \u2014 LSH is single-threaded and the bottleneck for very large datasets (10M+ rows). Lower `--num-perm` reduces LSH insert/query time at the cost of accuracy.\n\n**Reduce memory** \u2014 lower `--num-perm` (try `64`) or `--max-ram-per-worker`.\n\n**Stricter dedup** \u2014 raise `--threshold` toward `0.9`. Looser dedup \u2014 lower toward `0.5`.\n\n**Large directories** \u2014 use `--skip-existing` to resume interrupted runs without reprocessing completed files.",
+    "metadata": {
+      "type": "readme_section",
+      "repo": "Minhash Lsh Dedup",
+      "heading": "Tips"
+    }
+  },
+  {
+    "id": "chunk_0040",
+    "source": "github",
+    "section": "github_repo",
+    "text": "[Repo: Ats Resume Analyser] [ATS RAG Analyzer - Intelligent Resume Screening System]\nA modern, full-stack **Applicant Tracking System (ATS)** powered by **Retrieval-Augmented Generation (RAG)** that intelligently analyzes resumes against job descriptions using AI-driven insights.\n\n![Stack](https://img.shields.io/badge/Stack-React%20%7C%20TypeScript%20%7C%20TanStack%20%7C%20FastAPI%20%7C%20LangChain-blue)\n![License](https://img.shields.io/badge/License-MIT-green)\n\n---",
+    "metadata": {
+      "type": "readme_section",
+      "repo": "Ats Resume Analyser",
+      "heading": "ATS RAG Analyzer - Intelligent Resume Screening System"
+    }
+  },
+  {
+    "id": "chunk_0041",
+    "source": "github",
+    "section": "github_repo",
+    "text": "[Repo: Ats Resume Analyser] [Project Overview]\n**ATS RAG Analyzer** is an intelligent resume screening platform that uses advanced RAG technology to:\n\n- Upload resumes and job descriptions in **PDF/DOCX** formats\n- Get **AI-powered match analysis** with percentage scores\n- Run **session-isolated analysis** (each session has its own vector database)\n- Ask follow-up questions via **conversational chat**\n- Maintain complete **session history** with rename, duplicate, and delete features\n\nThe system leverages **LangChain + ChromaDB + OpenAI** to provide semantic understanding and context-aware recommendations.\n\n---",
+    "metadata": {
+      "type": "readme_section",
+      "repo": "Ats Resume Analyser",
+      "heading": "Project Overview"
+    }
+  },
+  {
+    "id": "chunk_0042",
+    "source": "github",
+    "section": "github_repo",
+    "text": "[Repo: Ats Resume Analyser] [Key Features]\n###  Resume Matching\n- **Intelligent Analysis**: AI-driven matching between resume and job description\n- **Match Score**: Percentage-based compatibility score (0-100%)\n- **Detailed Verdict**: Comprehensive analysis with recommendations",
+    "metadata": {
+      "type": "readme_section",
+      "repo": "Ats Resume Analyser",
+      "heading": "Key Features",
+      "sub_chunk": 0
+    }
+  },
+  {
+    "id": "chunk_0043",
+    "source": "github",
+    "section": "github_repo",
+    "text": "[Repo: Ats Resume Analyser] [Key Features]\n###  Session Management\n- **Isolated Storage**: Each session gets its own ChromaDB vector database\n- **Session Persistence**: Store, view, rename, duplicate, and delete sessions\n- **No Cross-Contamination**: Complete data isolation between sessions",
+    "metadata": {
+      "type": "readme_section",
+      "repo": "Ats Resume Analyser",
+      "heading": "Key Features",
+      "sub_chunk": 1
+    }
+  },
+  {
+    "id": "chunk_0044",
+    "source": "github",
+    "section": "github_repo",
+    "text": "[Repo: Ats Resume Analyser] [Key Features]\n###  Interactive Chat\n- **Follow-up Questions**: Ask clarification questions about the analysis\n- **Conversation History**: Maintain context across multiple messages\n- **RAG-Powered Responses**: Answers backed by actual resume/JD content",
+    "metadata": {
+      "type": "readme_section",
+      "repo": "Ats Resume Analyser",
+      "heading": "Key Features",
+      "sub_chunk": 2
+    }
+  },
+  {
+    "id": "chunk_0045",
+    "source": "github",
+    "section": "github_repo",
+    "text": "[Repo: Ats Resume Analyser] [Key Features]\n###  Analysis Dashboard\n- **Real-time Metrics**: Match score, job role detection\n- **Key Insights**: Strengths, gaps, and recommendations\n- **Visual Feedback**: Progress indicators and status badges",
+    "metadata": {
+      "type": "readme_section",
+      "repo": "Ats Resume Analyser",
+      "heading": "Key Features",
+      "sub_chunk": 3
+    }
+  },
+  {
+    "id": "chunk_0046",
+    "source": "github",
+    "section": "github_repo",
+    "text": "[Repo: Ats Resume Analyser] [Key Features]\n###  Developer-Friendly\n- **Type-Safe**: Full TypeScript implementation\n- **RESTful API**: Clean, well-documented endpoints\n- **Environment Config**: Flexible deployment configuration",
+    "metadata": {
+      "type": "readme_section",
+      "repo": "Ats Resume Analyser",
+      "heading": "Key Features",
+      "sub_chunk": 4
+    }
+  },
+  {
+    "id": "chunk_0047",
+    "source": "github",
+    "section": "github_repo",
+    "text": "[Repo: Ats Resume Analyser] [Tech Stack]\n### Frontend\n| Technology | Purpose | Version |\n|-----------|---------|---------|\n| **React** | UI Framework | 19.2.0 |\n| **TypeScript** | Type Safety | 5.8.3 |\n| **TanStack Router** | File-based Routing | 1.168.25 |\n| **TanStack React Query** | Data Fetching & Caching | 5.83.0 |\n| **Tailwind CSS** | Styling | 4.2.1 |\n| **Shadcn/ui** | Component Library | Latest |\n| **Vite** | Build Tool | 7.3.1 |\n| **Zustand** | State Management | 5.0.13 |\n| **React Hook Form** | Form Handling | 7.71.2 |\n| **Zod** | Schema Validation | 3.24.2 |\n| **Recharts** | Data Visualization | 2.15.4 |\n| **Lucide React** | Icons | 0.575.0 |\n| **IndexedDB (idb)** | Client-side Storage | 8.0.3 |",
+    "metadata": {
+      "type": "readme_section",
+      "repo": "Ats Resume Analyser",
+      "heading": "Tech Stack",
+      "sub_chunk": 0
+    }
+  },
+  {
+    "id": "chunk_0048",
+    "source": "github",
+    "section": "github_repo",
+    "text": "[Repo: Ats Resume Analyser] [Tech Stack]\n### Backend\n| Technology | Purpose | Version |\n|-----------|---------|---------|\n| **FastAPI** | Web Framework | Latest |\n| **Uvicorn** | ASGI Server | Latest |\n| **LangChain** | AI Orchestration | Latest |\n| **LangChain Community** | Document Loaders | Latest |\n| **LangChain Chroma** | Vector Store Integration | Latest |\n| **LangChain OpenAI** | LLM Integration | Latest |\n| **ChromaDB** | Vector Database | 1.5.9 |\n| **OpenAI API** | Language Model | gpt-4o-mini |\n| **PyPDF** | PDF Processing | Latest |\n| **Docx2txt** | DOCX Processing | Latest |\n| **Python-multipart** | File Upload Handling | Latest |\n| **Python-dotenv** | Environment Config | Latest |\n| **CORS Middleware** | Cross-Origin Support | Built-in |",
+    "metadata": {
+      "type": "readme_section",
+      "repo": "Ats Resume Analyser",
+      "heading": "Tech Stack",
+      "sub_chunk": 1
+    }
+  },
+  {
+    "id": "chunk_0049",
+    "source": "github",
+    "section": "github_repo",
+    "text": "[Repo: Ats Resume Analyser] [Tech Stack]\n### Infrastructure & DevOps\n- **Cloudflare Workers**: Edge deployment (via Wrangler)\n- **Bun**: JavaScript runtime & package manager\n- **Node.js**: JavaScript runtime alternative",
+    "metadata": {
+      "type": "readme_section",
+      "repo": "Ats Resume Analyser",
+      "heading": "Tech Stack",
+      "sub_chunk": 2
+    }
+  },
+  {
+    "id": "chunk_0050",
+    "source": "github",
+    "section": "github_repo",
+    "text": "[Repo: Ats Resume Analyser] [Quick Start]\n### Prerequisites\n- **Node.js** 18+ (or **Bun** runtime)\n- **Python** 3.10+\n- **pip** package manager\n- **OpenAI API Key** (OpenRouter or Direct)\n\n### 1. Clone & Install\n\n```bash",
+    "metadata": {
+      "type": "readme_section",
+      "repo": "Ats Resume Analyser",
+      "heading": "Quick Start"
+    }
+  },
+  {
+    "id": "chunk_0051",
+    "source": "github",
+    "section": "github_repo",
+    "text": "[Repo: Ats Resume Analyser] [Clone repository]\ngit clone https://github.com/Arpit2811/Rag_based_ATS_Analyser.git\ncd my_rag/Rag_based_ats_analyser",
+    "metadata": {
+      "type": "readme_section",
+      "repo": "Ats Resume Analyser",
+      "heading": "Clone repository"
+    }
+  },
+  {
+    "id": "chunk_0052",
+    "source": "github",
+    "section": "github_repo",
+    "text": "[Repo: Ats Resume Analyser] [Setup Python backend]\npython -m venv rag_venv\nrag_venv\\Scripts\\activate  # Windows",
+    "metadata": {
+      "type": "readme_section",
+      "repo": "Ats Resume Analyser",
+      "heading": "Setup Python backend"
+    }
+  },
+  {
+    "id": "chunk_0053",
+    "source": "github",
+    "section": "github_repo",
+    "text": "[Repo: Ats Resume Analyser] [or: source rag_venv/bin/activate  # macOS/Linux]\npip install fastapi uvicorn python-multipart python-dotenv \\\n  langchain langchain-community langchain-chroma langchain-openai \\\n  langchain-text-splitters pypdf docx2txt\nenv",
+    "metadata": {
+      "type": "readme_section",
+      "repo": "Ats Resume Analyser",
+      "heading": "or: source rag_venv/bin/activate  # macOS/Linux"
+    }
+  },
+  {
+    "id": "chunk_0054",
+    "source": "github",
+    "section": "github_repo",
+    "text": "[Repo: Ats Resume Analyser] [OpenAI Configuration]\nOPENAI_API_KEY=sk-your-api-key-here\nOPENAI_BASE_URL=https://openrouter.ai/api/v1  # or https://api.openai.com/v1",
+    "metadata": {
+      "type": "readme_section",
+      "repo": "Ats Resume Analyser",
+      "heading": "OpenAI Configuration"
+    }
+  },
+  {
+    "id": "chunk_0055",
+    "source": "github",
+    "section": "github_repo",
+    "text": "[Repo: Ats Resume Analyser] [CORS Configuration (comma-separated)]\nCORS_ORIGINS=http://localhost:5173,https://your-deployed-app.com\nbash\ncd python-backend\nuvicorn server:app --host 0.0.0.0 --port 8000 --reload\nbash\nnpm run dev",
+    "metadata": {
+      "type": "readme_section",
+      "repo": "Ats Resume Analyser",
+      "heading": "CORS Configuration (comma-separated)"
+    }
+  },
+  {
+    "id": "chunk_0056",
+    "source": "github",
+    "section": "github_repo",
+    "text": "[Repo: Ats Resume Analyser] [or: bun run dev]\n```\n\nApp runs at: `http://localhost:5173`\n\n---",
+    "metadata": {
+      "type": "readme_section",
+      "repo": "Ats Resume Analyser",
+      "heading": "or: bun run dev"
+    }
+  },
+  {
+    "id": "chunk_0057",
+    "source": "github",
+    "section": "github_repo",
+    "text": "[Repo: Ats Resume Analyser] [\ud83d\udd0c API Endpoints]\n### Base URL\n\n\n### Endpoints\n\n#### 1. **Health Check**\n\n\n#### 2. **Ingest Resume & Job Description**\n\n\n#### 3. **Analyze Resume vs JD**\n\n\n#### 4. **Chat with Analysis**\n\n\n#### 5. **Delete Session**\n\n\n---",
+    "metadata": {
+      "type": "readme_section",
+      "repo": "Ats Resume Analyser",
+      "heading": "\ud83d\udd0c API Endpoints"
+    }
+  },
+  {
+    "id": "chunk_0058",
+    "source": "github",
+    "section": "github_repo",
+    "text": "[Repo: Ats Resume Analyser] [How It Works]\n### Data Flow\n\n\n\n### Session Isolation\n\nEach session gets:\n- Dedicated ChromaDB collection: `chroma_db/{sessionId}/`\n- Isolated upload directory: `uploads/{sessionId}/`\n- No data leakage between sessions\n- Session-specific chat history\n\n---",
+    "metadata": {
+      "type": "readme_section",
+      "repo": "Ats Resume Analyser",
+      "heading": "How It Works"
+    }
+  },
+  {
+    "id": "chunk_0059",
+    "source": "github",
+    "section": "github_repo",
+    "text": "[Repo: Ats Resume Analyser] [Usage Examples]\n### Example 1: Basic Workflow\n\n```bash",
+    "metadata": {
+      "type": "readme_section",
+      "repo": "Ats Resume Analyser",
+      "heading": "Usage Examples"
+    }
+  },
+  {
+    "id": "chunk_0060",
+    "source": "github",
+    "section": "github_repo",
+    "text": "[Repo: Ats Resume Analyser] [Create analysis]\nresponse = requests.post(\n    \"http://localhost:8000/sessions/session-123/ingest\",\n    files={\n        \"resume\": open(\"resume.pdf\", \"rb\"),\n        \"jd\": open(\"jd.pdf\", \"rb\")\n    }\n)",
+    "metadata": {
+      "type": "readme_section",
+      "repo": "Ats Resume Analyser",
+      "heading": "Create analysis"
+    }
+  },
+  {
+    "id": "chunk_0061",
+    "source": "github",
+    "section": "github_repo",
+    "text": "[Repo: Ats Resume Analyser] [Get analysis]\nanalysis = requests.post(\n    \"http://localhost:8000/sessions/session-123/analyze\"\n).json()\n\nprint(f\"Match Score: {analysis['matchScore']}%\")\nprint(f\"Verdict: {analysis['verdict']}\")\n```\n\n---",
+    "metadata": {
+      "type": "readme_section",
+      "repo": "Ats Resume Analyser",
+      "heading": "Get analysis"
+    }
+  },
+  {
+    "id": "chunk_0062",
+    "source": "github",
+    "section": "github_repo",
+    "text": "[Repo: Ats Resume Analyser] [\ud83c\udfa8 UI Features]\n### Landing Page\n- Session creation\n- Recent sessions quick access\n- Feature highlights\n\n### Analysis Dashboard\n- **Match Score Card**: Percentage + progress bar\n- **Verdict Panel**: AI-generated final verdict\n- **Strengths Section**: Key qualifications\n- **Gaps Section**: Missing skills\n- **Recommendations**: Actionable insights\n\n### Chat Panel\n- Real-time messaging\n- Conversation history\n- Context-aware responses\n- Export conversation\n\n### Session Management\n- Rename sessions\n- Duplicate for variations\n- Delete old sessions\n- Sort by date/name\n\n### Settings Page\n- API URL configuration\n- Theme preferences\n- Data storage options\n- Export/Import sessions\n\n---",
+    "metadata": {
+      "type": "readme_section",
+      "repo": "Ats Resume Analyser",
+      "heading": "\ud83c\udfa8 UI Features"
+    }
+  },
+  {
+    "id": "chunk_0063",
+    "source": "github",
+    "section": "github_repo",
+    "text": "[Repo: Ats Resume Analyser] [\ud83d\udd2e Future Scope & Enhancements]\n### Phase 2: Advanced Analysis\n- [ ] **Multi-Resume Comparison**: Compare multiple candidates for same JD\n- [ ] **Ranking System**: Automatically rank candidates from pool\n- [ ] **Batch Processing**: Upload and analyze 50+ resumes at once\n- [ ] **Skill Gap Analysis**: ML-based skill extraction and mapping\n- [ ] **Salary Insights**: Estimate salary range based on experience/skills",
+    "metadata": {
+      "type": "readme_section",
+      "repo": "Ats Resume Analyser",
+      "heading": "\ud83d\udd2e Future Scope & Enhancements",
+      "sub_chunk": 0
+    }
+  },
+  {
+    "id": "chunk_0064",
+    "source": "github",
+    "section": "github_repo",
+    "text": "[Repo: Ats Resume Analyser] [\ud83d\udd2e Future Scope & Enhancements]\n### Phase 3: Intelligence & Learning\n- [ ] **Feedback Loop**: Train model on hiring decisions (hired/rejected)\n- [ ] **Role-Specific Templates**: Preset prompts for different job families\n- [ ] **Domain-Specific Models**: Fine-tuned models for tech/finance/healthcare\n- [ ] **Interview Question Generation**: Auto-generate questions for candidates\n- [ ] **Bias Detection**: Highlight and mitigate potential hiring biases",
+    "metadata": {
+      "type": "readme_section",
+      "repo": "Ats Resume Analyser",
+      "heading": "\ud83d\udd2e Future Scope & Enhancements",
+      "sub_chunk": 1
+    }
+  },
+  {
+    "id": "chunk_0065",
+    "source": "github",
+    "section": "github_repo",
+    "text": "[Repo: Ats Resume Analyser] [\ud83d\udd2e Future Scope & Enhancements]\n### Phase 4: Integration & Automation\n- [ ] **ATS Integration**: Connect with Workday, Taleo, Greenhouse\n- [ ] **Email Notifications**: Auto-notify candidates of results\n- [ ] **Slack Bot**: Analyze resumes via Slack commands\n- [ ] **Calendar Integration**: Auto-schedule interviews\n- [ ] **Document Storage**: S3/Google Drive integration for files",
+    "metadata": {
+      "type": "readme_section",
+      "repo": "Ats Resume Analyser",
+      "heading": "\ud83d\udd2e Future Scope & Enhancements",
+      "sub_chunk": 2
+    }
+  },
+  {
+    "id": "chunk_0066",
+    "source": "github",
+    "section": "github_repo",
+    "text": "[Repo: Ats Resume Analyser] [\ud83d\udd2e Future Scope & Enhancements]\n### Phase 5: Enterprise Features\n- [ ] **Multi-Tenant**: Support for multiple organizations\n- [ ] **Role-Based Access**: HR Manager, Recruiter, Admin roles\n- [ ] **Audit Trail**: Track all changes and analysis history\n- [ ] **Custom Pipelines**: Define organization-specific analysis rules\n- [ ] **API Rate Limiting**: Usage quotas and pricing tiers\n- [ ] **SLA Monitoring**: Performance metrics and uptime tracking",
+    "metadata": {
+      "type": "readme_section",
+      "repo": "Ats Resume Analyser",
+      "heading": "\ud83d\udd2e Future Scope & Enhancements",
+      "sub_chunk": 3
+    }
+  },
+  {
+    "id": "chunk_0067",
+    "source": "github",
+    "section": "github_repo",
+    "text": "[Repo: Ats Resume Analyser] [\ud83d\udd2e Future Scope & Enhancements]\n### Phase 6: Performance & Scale\n- [ ] **Vector Cache**: Redis caching for embeddings\n- [ ] **Async Processing**: Queue-based analysis for bulk jobs\n- [ ] **GraphQL API**: Alternative to REST for flexible queries\n- [ ] **Database Optimization**: Migrate from ChromaDB to Pinecone/Weaviate\n- [ ] **Load Testing**: Support 1000+ concurrent sessions\n- [ ] **CDN Deployment**: Global edge deployment",
+    "metadata": {
+      "type": "readme_section",
+      "repo": "Ats Resume Analyser",
+      "heading": "\ud83d\udd2e Future Scope & Enhancements",
+      "sub_chunk": 4
+    }
+  },
+  {
+    "id": "chunk_0068",
+    "source": "github",
+    "section": "github_repo",
+    "text": "[Repo: Ats Resume Analyser] [\ud83d\udd2e Future Scope & Enhancements]\n### Phase 7: AI Enhancements\n- [ ] **Multimodal Support**: Video resume analysis\n- [ ] **Cover Letter Analysis**: Include cover letters in analysis\n- [ ] **Reference Checking**: Automated reference validation\n- [ ] **Soft Skills Detection**: NLP for soft skill assessment\n- [ ] **Salary Negotiation AI**: Coach for negotiation scenarios\n- [ ] **Career Path Recommendations**: Where candidate can grow",
+    "metadata": {
+      "type": "readme_section",
+      "repo": "Ats Resume Analyser",
+      "heading": "\ud83d\udd2e Future Scope & Enhancements",
+      "sub_chunk": 5
+    }
+  },
+  {
+    "id": "chunk_0069",
+    "source": "github",
+    "section": "github_repo",
+    "text": "[Repo: Ats Resume Analyser] [\ud83d\udd2e Future Scope & Enhancements]\n### Technical Debt & Quality\n- [ ] **Unit Tests**: 80%+ coverage for backend\n- [ ] **E2E Tests**: Playwright tests for critical workflows\n- [ ] **Performance Testing**: Load tests and optimization\n- [ ] **Documentation**: API docs, deployment guides\n- [ ] **CI/CD Pipeline**: GitHub Actions for automated deployment\n- [ ] **Monitoring & Logging**: Sentry, DataDog integration",
+    "metadata": {
+      "type": "readme_section",
+      "repo": "Ats Resume Analyser",
+      "heading": "\ud83d\udd2e Future Scope & Enhancements",
+      "sub_chunk": 6
+    }
+  },
+  {
+    "id": "chunk_0070",
+    "source": "github",
+    "section": "github_repo",
+    "text": "[Repo: Ats Resume Analyser] [Performance Metrics]\n| Metric | Target | Current |\n|--------|--------|---------|\n| Analysis Generation | < 5s | ~3-4s |\n| API Response Time | < 1s | ~0.8s |\n| Chat Response | < 10s | ~8-9s |\n| Upload Processing | < 30s | ~15-20s |\n| Session Creation | < 500ms | ~200ms |\n| Max Concurrent Users | 1000 | Testing |\n\n---",
+    "metadata": {
+      "type": "readme_section",
+      "repo": "Ats Resume Analyser",
+      "heading": "Performance Metrics"
+    }
+  },
+  {
+    "id": "chunk_0071",
+    "source": "github",
+    "section": "github_repo",
+    "text": "[Repo: Ats Resume Analyser] [Security]\n- **CORS Protection**: Configurable origin list\n- **API Key Rotation**: Environment-based secret management\n- **Session Isolation**: No cross-session data leakage\n- **File Validation**: MIME type & size limits\n- **Input Sanitization**: XSS protection via React escaping\n- **HTTPS Ready**: Deploy with SSL/TLS\n\n---",
+    "metadata": {
+      "type": "readme_section",
+      "repo": "Ats Resume Analyser",
+      "heading": "Security"
+    }
+  },
+  {
+    "id": "chunk_0072",
+    "source": "github",
+    "section": "github_repo",
+    "text": "[Repo: Ats Resume Analyser] [Contributing]\nContributions are welcome! Follow these steps:\n\n1. Fork the repository\n2. Create a feature branch (`git checkout -b feature/amazing-feature`)\n3. Commit changes (`git commit -m 'Add amazing feature'`)\n4. Push to branch (`git push origin feature/amazing-feature`)\n5. Open a Pull Request\n\n---",
+    "metadata": {
+      "type": "readme_section",
+      "repo": "Ats Resume Analyser",
+      "heading": "Contributing"
+    }
+  },
+  {
+    "id": "chunk_0073",
+    "source": "github",
+    "section": "github_repo",
+    "text": "[Repo: Ats Resume Analyser] [License]\nThis project is licensed under the MIT License - see the LICENSE file for details.\n\n---",
+    "metadata": {
+      "type": "readme_section",
+      "repo": "Ats Resume Analyser",
+      "heading": "License"
+    }
+  },
+  {
+    "id": "chunk_0074",
+    "source": "github",
+    "section": "github_repo",
+    "text": "[Repo: Ats Resume Analyser] [Author]\nBuilt with \u2764\ufe0f by **Arpit** and the community.\n\n- GitHub: [@Arpit2811](https://github.com/Arpit2811)\n- Project: [Rag_based_ATS_Analyser](https://github.com/Arpit2811/Rag_based_ATS_Analyser)\n\n---",
+    "metadata": {
+      "type": "readme_section",
+      "repo": "Ats Resume Analyser",
+      "heading": "Author"
+    }
+  },
+  {
+    "id": "chunk_0075",
+    "source": "github",
+    "section": "github_repo",
+    "text": "[Repo: Ats Resume Analyser] [Support & Feedback]\n- **Issues**: Report bugs on [GitHub Issues](https://github.com/Arpit2811/Rag_based_ATS_Analyser/issues)\n- **Discussions**: Join [GitHub Discussions](https://github.com/Arpit2811/Rag_based_ATS_Analyser/discussions)\n- **Email**: [Contact via GitHub Profile]\n\n---",
+    "metadata": {
+      "type": "readme_section",
+      "repo": "Ats Resume Analyser",
+      "heading": "Support & Feedback"
+    }
+  },
+  {
+    "id": "chunk_0076",
+    "source": "github",
+    "section": "github_repo",
+    "text": "[Repo: Ats Resume Analyser] [Acknowledgments]\n- **LangChain**: For RAG framework\n- **ChromaDB**: For vector database\n- **OpenAI**: For language models\n- **TanStack**: For routing & data management\n- **Shadcn/ui**: For beautiful components\n- **Tailwind CSS**: For styling\n\n---",
+    "metadata": {
+      "type": "readme_section",
+      "repo": "Ats Resume Analyser",
+      "heading": "Acknowledgments"
+    }
+  },
+  {
+    "id": "chunk_0077",
+    "source": "github",
+    "section": "github_repo",
+    "text": "[Repo: Ats Resume Analyser] [Resources]\n- [FastAPI Docs](https://fastapi.tiangolo.com/)\n- [LangChain Docs](https://python.langchain.com/)\n- [TanStack Router](https://tanstack.com/router/latest)\n- [ChromaDB Docs](https://docs.trychroma.com/)\n- [OpenAI API](https://platform.openai.com/docs)\n\n---\n\n**\u2b50 If this project helps you, please star it on GitHub!**",
+    "metadata": {
+      "type": "readme_section",
+      "repo": "Ats Resume Analyser",
+      "heading": "Resources"
+    }
+  },
+  {
+    "id": "chunk_0078",
+    "source": "github",
+    "section": "github_repo",
+    "text": "[Repo: Sft Model Training] [overview]\nThis repository provides a pipeline for Supervised Fine-Tuning (SFT) of large language models using Hugging Face Transformers, Datasets, and PyTorch. It supports loading datasets from Parquet or JSON formats, processing conversational data, tokenizing inputs, and training models efficiently on GPU-enabled systems.",
+    "metadata": {
+      "type": "readme_section",
+      "repo": "Sft Model Training",
+      "heading": "overview",
+      "sub_chunk": 0
+    }
+  },
+  {
+    "id": "chunk_0079",
+    "source": "github",
+    "section": "github_repo",
+    "text": "[Repo: Sft Model Training] [overview]\nThe project is designed for scalability and can be adapted for large datasets and multi-GPU environments.",
+    "metadata": {
+      "type": "readme_section",
+      "repo": "Sft Model Training",
+      "heading": "overview",
+      "sub_chunk": 1
+    }
+  },
+  {
+    "id": "chunk_0080",
+    "source": "github",
+    "section": "github_repo",
+    "text": "[Repo: Sft Model Training] [overview]\nFeatures\nSupport for chat-based datasets with role and content structure\nEfficient dataset loading from Parquet and Hugging Face datasets\nBatch tokenization pipeline\nConfigurable training parameters\nLogging for monitoring training and debugging\nCompatible with large-scale training setups\nProject Structure\nSFT_MODEL_TRAINING/",
+    "metadata": {
+      "type": "readme_section",
+      "repo": "Sft Model Training",
+      "heading": "overview",
+      "sub_chunk": 2
+    }
+  },
+  {
+    "id": "chunk_0081",
+    "source": "github",
+    "section": "github_repo",
+    "text": "[Repo: Sft Model Training] [overview]\n\u251c\u2500\u2500 data/                  # Input datasets\n\u251c\u2500\u2500 tokenizer/             # Saved tokenizer files\n\u251c\u2500\u2500 logs/                  # Log files",
+    "metadata": {
+      "type": "readme_section",
+      "repo": "Sft Model Training",
+      "heading": "overview",
+      "sub_chunk": 3
+    }
+  },
+  {
+    "id": "chunk_0082",
+    "source": "github",
+    "section": "github_repo",
+    "text": "[Repo: Sft Model Training] [overview]\n\u251c\u2500\u2500 train.py               # Main training script\n\u251c\u2500\u2500 preprocess.py          # Data preprocessing logic\n\u251c\u2500\u2500 utils.py               # Utility functions\n\u251c\u2500\u2500 config.py              # Configuration settings",
+    "metadata": {
+      "type": "readme_section",
+      "repo": "Sft Model Training",
+      "heading": "overview",
+      "sub_chunk": 4
+    }
+  },
+  {
+    "id": "chunk_0083",
+    "source": "github",
+    "section": "github_repo",
+    "text": "[Repo: Sft Model Training] [overview]\n\u251c\u2500\u2500 requirements.txt\n\u2514\u2500\u2500 README.md\nInstallation\nClone the repository\ngit clone https://github.com/Arpit2811/SFT_MODEL_TRAINING.git\ncd SFT_MODEL_TRAINING\nCreate a virtual environment\npython -m venv env\nsource env/bin/activate",
+    "metadata": {
+      "type": "readme_section",
+      "repo": "Sft Model Training",
+      "heading": "overview",
+      "sub_chunk": 5
+    }
+  },
+  {
+    "id": "chunk_0084",
+    "source": "github",
+    "section": "github_repo",
+    "text": "[Repo: Sft Model Training] [overview]\nenv\\Scripts\\activate\nInstall dependencies\npip install -r requirements.txt\nDataset Format",
+    "metadata": {
+      "type": "readme_section",
+      "repo": "Sft Model Training",
+      "heading": "overview",
+      "sub_chunk": 6
+    }
+  },
+  {
+    "id": "chunk_0085",
+    "source": "github",
+    "section": "github_repo",
+    "text": "[Repo: Sft Model Training] [overview]\nThe pipeline expects conversational data in the following format:",
+    "metadata": {
+      "type": "readme_section",
+      "repo": "Sft Model Training",
+      "heading": "overview",
+      "sub_chunk": 7
+    }
+  },
+  {
+    "id": "chunk_0086",
+    "source": "github",
+    "section": "github_repo",
+    "text": "[Repo: Sft Model Training] [overview]\n[\n  {\"role\": \"user\", \"content\": \"Question\"},\n  {\"role\": \"assistant\", \"content\": \"Answer\"}\n]",
+    "metadata": {
+      "type": "readme_section",
+      "repo": "Sft Model Training",
+      "heading": "overview",
+      "sub_chunk": 8
+    }
+  },
+  {
+    "id": "chunk_0087",
+    "source": "github",
+    "section": "github_repo",
+    "text": "[Repo: Sft Model Training] [overview]\nIf using Parquet files, the data should typically be stored under a column such as messages containing the same structure.",
+    "metadata": {
+      "type": "readme_section",
+      "repo": "Sft Model Training",
+      "heading": "overview",
+      "sub_chunk": 9
+    }
+  },
+  {
+    "id": "chunk_0088",
+    "source": "github",
+    "section": "github_repo",
+    "text": "[Repo: Sft Model Training] [overview]\nThe preprocessing pipeline performs the following steps:",
+    "metadata": {
+      "type": "readme_section",
+      "repo": "Sft Model Training",
+      "heading": "overview",
+      "sub_chunk": 10
+    }
+  },
+  {
+    "id": "chunk_0089",
+    "source": "github",
+    "section": "github_repo",
+    "text": "[Repo: Sft Model Training] [overview]\nLoads dataset from Parquet or JSON files\nExtracts role and content fields\nFormats conversations into a training-ready structure\nApplies tokenization using a Hugging Face tokenizer\nTraining",
+    "metadata": {
+      "type": "readme_section",
+      "repo": "Sft Model Training",
+      "heading": "overview",
+      "sub_chunk": 11
+    }
+  },
+  {
+    "id": "chunk_0090",
+    "source": "github",
+    "section": "github_repo",
+    "text": "[Repo: Sft Model Training] [overview]\nTraining parameters can be configured in the configuration file or directly in the script. Typical parameters include:",
+    "metadata": {
+      "type": "readme_section",
+      "repo": "Sft Model Training",
+      "heading": "overview",
+      "sub_chunk": 12
+    }
+  },
+  {
+    "id": "chunk_0091",
+    "source": "github",
+    "section": "github_repo",
+    "text": "[Repo: Sft Model Training] [overview]\nBATCH_SIZE = 8\nLEARNING_RATE = 2e-5\nEPOCHS = 3\nMAX_LENGTH = 2048\nLogging",
+    "metadata": {
+      "type": "readme_section",
+      "repo": "Sft Model Training",
+      "heading": "overview",
+      "sub_chunk": 13
+    }
+  },
+  {
+    "id": "chunk_0092",
+    "source": "github",
+    "section": "github_repo",
+    "text": "[Repo: Sft Model Training] [overview]\nLogs are stored in the logs/ directory. These include:",
+    "metadata": {
+      "type": "readme_section",
+      "repo": "Sft Model Training",
+      "heading": "overview",
+      "sub_chunk": 14
+    }
+  },
+  {
+    "id": "chunk_0093",
+    "source": "github",
+    "section": "github_repo",
+    "text": "[Repo: Sft Model Training] [overview]\nDataset processing progress\nTraining status\nError and debug information\nOutput",
+    "metadata": {
+      "type": "readme_section",
+      "repo": "Sft Model Training",
+      "heading": "overview",
+      "sub_chunk": 15
+    }
+  },
+  {
+    "id": "chunk_0094",
+    "source": "github",
+    "section": "github_repo",
+    "text": "[Repo: Sft Model Training] [overview]\nAfter training, the following outputs are generated:",
+    "metadata": {
+      "type": "readme_section",
+      "repo": "Sft Model Training",
+      "heading": "overview",
+      "sub_chunk": 16
+    }
+  },
+  {
+    "id": "chunk_0095",
+    "source": "github",
+    "section": "github_repo",
+    "text": "[Repo: Sft Model Training] [overview]\nModel checkpoints in the output directory\nTokenizer files in the tokenizer directory\nPerformance Considerations\nUse mixed precision (fp16 or bfloat16) for faster training\nAdjust batch size based on available GPU memory\nUse gradient accumulation for large models\nPrefer Parquet format for handling large datasets\nFuture Enhancements\nIntegration with parameter-efficient fine-tuning methods such as LoRA\nSupport for distributed training frameworks such as DeepSpeed\nEvaluation and benchmarking pipeline\nInference utilities\nLicense",
+    "metadata": {
+      "type": "readme_section",
+      "repo": "Sft Model Training",
+      "heading": "overview",
+      "sub_chunk": 17
+    }
+  },
+  {
+    "id": "chunk_0096",
+    "source": "github",
+    "section": "github_repo",
+    "text": "[Repo: Sft Model Training] [overview]\nThis project is licensed under the MIT License.",
+    "metadata": {
+      "type": "readme_section",
+      "repo": "Sft Model Training",
+      "heading": "overview",
+      "sub_chunk": 18
+    }
+  },
+  {
+    "id": "chunk_0097",
+    "source": "github",
+    "section": "github_repo",
+    "text": "[Repo: Zlib Processing] [Corpus Builder (Parallel Mode)]\nA high\u2011performance corpus extraction pipeline designed to process large\ncollections of document metadata and extract clean textual data.\n\nThis tool supports multiple document formats and uses **parallel\nmultiprocessing** for faster processing. It is designed for\n**large\u2011scale text corpus building**, dataset preparation, and NLP\npipelines.\n\n------------------------------------------------------------------------",
+    "metadata": {
+      "type": "readme_section",
+      "repo": "Zlib Processing",
+      "heading": "Corpus Builder (Parallel Mode)"
+    }
+  },
+  {
+    "id": "chunk_0098",
+    "source": "github",
+    "section": "github_repo",
+    "text": "[Repo: Zlib Processing] [Features]\n-   Parallel processing using Python multiprocessing\n-   Native extraction for:\n    -   EPUB\n    -   FB2\n    -   DOCX\n    -   TXT\n    -   HTML\n-   Complex extraction for:\n    -   MOBI\n    -   AZW / AZW3\n    -   PRC / PDB\n-   Automatic fallback to **Apache Tika** for unsupported formats\n-   Removes FB2 binary image data to prevent garbage text\n-   Encoding issue detection\n-   Automatic word and page estimation\n-   Robust logging system\n-   Resilient file resolution logic\n\n------------------------------------------------------------------------",
+    "metadata": {
+      "type": "readme_section",
+      "repo": "Zlib Processing",
+      "heading": "Features"
+    }
+  },
+  {
+    "id": "chunk_0099",
+    "source": "github",
+    "section": "github_repo",
+    "text": "[Repo: Zlib Processing] [Supported Formats]\nFormat              Extraction Method\n  ------------------- ----------------------\n  TXT                 Native\n  HTML / HTM          Native\n  EPUB                Native\n  FB2                 Native\n  DOCX                Native\n  MOBI / AZW / AZW3   Complex Extraction\n  PRC / PDB           Complex Extraction\n  XML / OPF           Markup Parsing\n  Others              Apache Tika Fallback\n\nIgnored formats include:\n\n    jpg jpeg png exe lnk db iso rar zip djvu pdf\n\n------------------------------------------------------------------------",
+    "metadata": {
+      "type": "readme_section",
+      "repo": "Zlib Processing",
+      "heading": "Supported Formats"
+    }
+  },
+  {
+    "id": "chunk_0100",
+    "source": "github",
+    "section": "github_repo",
+    "text": "[Repo: Zlib Processing] [Architecture]\nPipeline Flow\n\n    metadata.jsonl\n          \u2502\n          \u25bc\n    Parallel Workers\n          \u2502\n          \u25bc\n    File Resolver\n          \u2502\n          \u25bc\n    Extractor Dispatcher\n          \u2502\n     \u250c\u2500\u2500\u2500\u2500\u253c\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2510\n     \u2502    \u2502               \u2502\n    Native Extractors   MOBI Handler\n     \u2502                  \u2502\n     \u25bc                  \u25bc\n    Clean Text Output\n          \u2502\n          \u25bc\n    JSONL Corpus File\n\n------------------------------------------------------------------------",
+    "metadata": {
+      "type": "readme_section",
+      "repo": "Zlib Processing",
+      "heading": "Architecture"
+    }
+  },
+  {
+    "id": "chunk_0101",
+    "source": "github",
+    "section": "github_repo",
+    "text": "[Repo: Zlib Processing] [Installation]\nClone the repository:\n\n\n\nInstall dependencies:\n\n\n\nApache Tika will automatically download its server jar on first\nexecution.\n\n------------------------------------------------------------------------",
+    "metadata": {
+      "type": "readme_section",
+      "repo": "Zlib Processing",
+      "heading": "Installation"
+    }
+  },
+  {
+    "id": "chunk_0102",
+    "source": "github",
+    "section": "github_repo",
+    "text": "[Repo: Zlib Processing] [Usage]\nBasic usage:\n\n\n\nSpecify number of workers:\n\n\n\nDefault workers = **CPU cores \u2212 1**\n\n------------------------------------------------------------------------",
+    "metadata": {
+      "type": "readme_section",
+      "repo": "Zlib Processing",
+      "heading": "Usage"
+    }
+  },
+  {
+    "id": "chunk_0103",
+    "source": "github",
+    "section": "github_repo",
+    "text": "[Repo: Zlib Processing] [Input Format]\nInput must be a **JSONL file**.\n\nExample:\n\n\n\n------------------------------------------------------------------------",
+    "metadata": {
+      "type": "readme_section",
+      "repo": "Zlib Processing",
+      "heading": "Input Format"
+    }
+  },
+  {
+    "id": "chunk_0104",
+    "source": "github",
+    "section": "github_repo",
+    "text": "[Repo: Zlib Processing] [Output Format]\nOutput is also **JSONL**.\n\nExample:\n\n\n\n------------------------------------------------------------------------",
+    "metadata": {
+      "type": "readme_section",
+      "repo": "Zlib Processing",
+      "heading": "Output Format"
+    }
+  },
+  {
+    "id": "chunk_0105",
+    "source": "github",
+    "section": "github_repo",
+    "text": "[Repo: Zlib Processing] [Logging]\nLogs are written to the file specified with:\n\n    --log extraction.log\n\nLogs include:\n\n-   file processing\n-   encoding errors\n-   missing files\n-   extraction failures\n-   periodic progress updates\n\n------------------------------------------------------------------------",
+    "metadata": {
+      "type": "readme_section",
+      "repo": "Zlib Processing",
+      "heading": "Logging"
+    }
+  },
+  {
+    "id": "chunk_0106",
+    "source": "github",
+    "section": "github_repo",
+    "text": "[Repo: Zlib Processing] [Performance]\nParallel mode allows scaling to very large datasets.\n\nTypical performance:\n\n  Workers   Files / Minute\n  --------- ----------------\n  4         \\~200\n  8         \\~450\n  16        \\~900\n\nActual performance depends on disk speed, file size, and document type.\n\n------------------------------------------------------------------------",
+    "metadata": {
+      "type": "readme_section",
+      "repo": "Zlib Processing",
+      "heading": "Performance"
+    }
+  },
+  {
+    "id": "chunk_0107",
+    "source": "github",
+    "section": "github_repo",
+    "text": "[Repo: Zlib Processing] [Debug Mode]\nTo process only a few records for testing:\n\n\n\nThen enable the lock inside the processing loop.\n\n------------------------------------------------------------------------",
+    "metadata": {
+      "type": "readme_section",
+      "repo": "Zlib Processing",
+      "heading": "Debug Mode"
+    }
+  },
+  {
+    "id": "chunk_0108",
+    "source": "github",
+    "section": "github_repo",
+    "text": "[Repo: Zlib Processing] [Dependencies]\nMain libraries used:\n\n-   beautifulsoup4\n-   lxml\n-   mobi\n-   tika\n-   multiprocessing (Python standard library)\n\nFull list available in `requirements.txt`.\n\n------------------------------------------------------------------------",
+    "metadata": {
+      "type": "readme_section",
+      "repo": "Zlib Processing",
+      "heading": "Dependencies"
+    }
+  },
+  {
+    "id": "chunk_0109",
+    "source": "github",
+    "section": "github_repo",
+    "text": "[Repo: Zlib Processing] [Use Cases]\n-   NLP corpus building\n-   Large dataset preparation for LLM training\n-   Digital library ingestion pipelines\n-   Research dataset generation\n-   Document text extraction pipelines\n\n------------------------------------------------------------------------",
+    "metadata": {
+      "type": "readme_section",
+      "repo": "Zlib Processing",
+      "heading": "Use Cases"
+    }
+  }
+]

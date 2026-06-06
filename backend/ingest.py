@@ -37,7 +37,7 @@ from docx import Document
 from sentence_transformers import SentenceTransformer
 
 
-EMBED_MODEL = "BAAI/bge-base-en-v1.5"   # 768-dim, no prefix needed at index time
+EMBED_MODEL = "BAAI/bge-small-en-v1.5"   # 768-dim, no prefix needed at index time
 
 # ─────────────────────────────────────────────────────────────────────────────
 # SECTION 1 — RESUME PARSING (.docx)
@@ -309,10 +309,10 @@ def run_ingestion(
 if __name__ == "__main__":
     run_ingestion(
         resume_path  = r"C:\Users\Admin\Desktop\sclaer\data\Resume_Arpit_v2026.docx",
-        readme_paths = [r"C:\Users\Admin\Desktop\sclaer\data\repos\Arxiv_scrapping_repo\README.md",
-                        r"C:\Users\Admin\Desktop\sclaer\data\repos\Minhash-LSH-Jaccard-Based-deduplication-on-parquet-datasets_repo\README.md",
-                        r"C:\Users\Admin\Desktop\sclaer\data\repos\Rag_based_ATS_Analyser_repo\README.md",
-                        r"C:\Users\Admin\Desktop\sclaer\data\repos\SFT_MODEL_TRAINING_repo\README.md",
-                        r"C:\Users\Admin\Desktop\sclaer\data\repos\Zlib_epub_extractor_repo\README.md"],
-        out_dir = "index1",
+        readme_paths = [r"C:\Users\Admin\Desktop\sclaer\data\repos\Arxiv_scrapping\README.md",
+                        r"C:\Users\Admin\Desktop\sclaer\data\repos\Minhash_lsh_dedup\README.md",
+                        r"C:\Users\Admin\Desktop\sclaer\data\repos\ATS_Resume_Analyser\README.md",
+                        r"C:\Users\Admin\Desktop\sclaer\data\repos\SFT_model_training\README.md",
+                        r"C:\Users\Admin\Desktop\sclaer\data\repos\Zlib_Processing\README.md"],
+        out_dir = "index",
     )

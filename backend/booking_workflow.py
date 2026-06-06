@@ -2,7 +2,7 @@ import os
 import re
 import requests
 from dotenv import load_dotenv
-from make_service import create_booking, get_available_slots
+from backend.make_service import create_booking, get_available_slots
 
 
 BOOKING_KEYWORDS = [

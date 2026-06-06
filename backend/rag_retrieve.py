@@ -20,7 +20,7 @@ load_dotenv()
 # CONFIG
 # ─────────────────────────────────────────────────────────────────────────────
 
-EMBED_MODEL          = "BAAI/bge-base-en-v1.5"
+EMBED_MODEL          = "BAAI/bge-small-en-v1.5"
 BGE_QUERY_PREFIX     = "Represent this sentence for searching relevant passages: "
 TOP_K                = 6
 RELEVANCE_THRESHOLD  = 0.10
@@ -320,7 +320,7 @@ class Pipeline:
         self.embedder = embedder
 
 
-def load_pipeline(index_dir: str = "index1") -> Pipeline:
+def load_pipeline(index_dir: str = "index") -> Pipeline:
     return Pipeline(ResumeIndex(index_dir), Embedder())
 
 
@@ -477,4 +477,4 @@ def run_repl(index_dir: str = "index"):
 
 
 if __name__ == "__main__":
-    run_repl("index1")
+    run_repl("index")
