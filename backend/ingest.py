@@ -37,7 +37,7 @@ from docx import Document
 from sentence_transformers import SentenceTransformer
 
 
-EMBED_MODEL = "BAAI/bge-small-en-v1.5"   # 768-dim, no prefix needed at index time
+EMBED_MODEL = "sentence-transformers/all-MiniLM-L6-v2"   # 768-dim, no prefix needed at index time
 
 # ─────────────────────────────────────────────────────────────────────────────
 # SECTION 1 — RESUME PARSING (.docx)

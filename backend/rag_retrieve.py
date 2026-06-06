@@ -20,7 +20,7 @@ load_dotenv()
 # CONFIG
 # ─────────────────────────────────────────────────────────────────────────────
 
-EMBED_MODEL          = "BAAI/bge-small-en-v1.5"
+EMBED_MODEL          = "sentence-transformers/all-MiniLM-L6-v2"
 BGE_QUERY_PREFIX     = "Represent this sentence for searching relevant passages: "
 TOP_K                = 6
 RELEVANCE_THRESHOLD  = 0.10
