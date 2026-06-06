@@ -58,16 +58,24 @@ def chat(req: ChatRequest):
 
     # 1. Handle an ongoing multi-step scheduling sequence
     if session and session.get("intent") == "booking":
-        answer = handle_booking(session, req.message)
+        try:
+            answer = handle_booking(session, req.message)
 
-        # CRITICAL FIX: Explicitly write back modified state to state store
-        conversation_state[req.session_id] = session
+            # CRITICAL FIX: Explicitly write back modified state to state store
+            conversation_state[req.session_id] = session
 
-        # If the booking flow is fully completed or threw a fallback error, clear the state
-        if session.get("stage") == "completed":
-            del conversation_state[req.session_id]
+            # If the booking flow is fully completed or threw a fallback error, clear the state
+            if session.get("stage") == "completed":
+                del conversation_state[req.session_id]
 
-        return ChatResponse(answer=answer)
+            return ChatResponse(answer=answer)
+        except Exception as e:
+            import traceback
+            print("booking error")
+            traceback.print_exc()
+            return ChatResponse(
+                answer=f"Booking workflow failed: {str(e)}"
+            )
 
     # 2. Intercept query if user intends to initialize a new booking session
     if is_booking_intent(req.message):

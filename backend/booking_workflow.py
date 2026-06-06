@@ -76,8 +76,13 @@ def handle_booking(session: dict, message: str):
             normalized_date = raw_date
 
         session["date"] = normalized_date
-        raw_slots = get_available_slots(normalized_date)
-
+        print("DATE RECEIVED:", normalized_date)
+        try:
+            raw_slots = get_available_slots(normalized_date)
+        except Exception as e:
+            import traceback
+            traceback.print_exc()
+            return f"Availability lookup failed: {str(e)}"
         if not raw_slots:
             return (
                 f"Sorry, there are no available slots for {normalized_date}.\n\n"
