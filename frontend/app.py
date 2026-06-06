@@ -1,7 +1,10 @@
 import streamlit as st
-import requests, uuid
+import requests, uuid, os
 
-BACKEND_URL = ""https://arpit-saipersona-production.up.railway.app/chat"
+BACKEND_URL = os.getenv(
+    "BACKEND_URL",
+    "https://arpit-saipersona-production.up.railway.app/chat"
+)
 
 st.set_page_config(
     page_title="Arpit AI Persona",
